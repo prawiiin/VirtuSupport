@@ -23,11 +23,6 @@ VirtuSupport is a virtual lab environment to simulate and troubleshoot common te
 3. Execute scripts inside each folder
 4. Follow SOPs to troubleshoot and document
 
-## Demo & Screenshots
-Upload screenshots and a demo video in the `images/` folder and link them here if needed.
-
-## License
-MIT
 
 ---
-Created by Praveen Raj
+Done & Created by Praveen Raj
